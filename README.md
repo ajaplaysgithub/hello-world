@@ -1,2 +1,2 @@
 # hello-world
-aja's hello-world repository
+I'm Aja, and this is my first repository.
